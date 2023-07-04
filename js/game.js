@@ -11,7 +11,7 @@ const characters = [
     'Ranh',
     'Taradonopé',
     'Tio',
-    'Verde',
+    'aegon',
     'corno',
     'filho1',
     'rhanold',
